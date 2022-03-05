@@ -1,3 +1,3 @@
 # 3DCardEffect
 
-![alt text](src/screenshot.png)
+![alt text](screenshot.png)
